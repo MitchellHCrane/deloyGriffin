@@ -9,16 +9,13 @@
 5. Test with npm start
 6. 'npm run build'
 7. Github > add repository >
-8. Netlify.com >
+8. Netlify.com > Sites Import Existing Project > GitHub > Link Repo > Deploy Site
+9. Change site Name
+10. Domain Management > Add custom domain > name.1stclasshomemortgage.com > Add domain
+11. SSL/TLS certificate Authenticate.
 
 ## Set Up for production run:
 
 'npm run build'
 
-# deloyGriffin
-# deloyGriffin
-# deloyGriffin
-# deloyGriffin
-# deloyGriffin
-# deloyGriffin
 # deloyGriffin
