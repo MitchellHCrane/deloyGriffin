@@ -1,31 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.eac6b9f6.chunk.css",
-    "main.js": "/static/js/main.b7c3a9c2.chunk.js",
-    "main.js.map": "/static/js/main.b7c3a9c2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7330a186.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7330a186.js.map",
-    "static/js/2.94022e24.chunk.js": "/static/js/2.94022e24.chunk.js",
-    "static/js/2.94022e24.chunk.js.map": "/static/js/2.94022e24.chunk.js.map",
-    "static/js/3.2e4577b4.chunk.js": "/static/js/3.2e4577b4.chunk.js",
-    "static/js/3.2e4577b4.chunk.js.map": "/static/js/3.2e4577b4.chunk.js.map",
+    "main.css": "/static/css/main.f16a43aa.css",
+    "main.js": "/static/js/main.df805b16.js",
+    "static/js/453.8e14ba47.chunk.js": "/static/js/453.8e14ba47.chunk.js",
+    "static/media/getStartedBackground.png": "/static/media/getStartedBackground.894df7b0cdd2206da3a1.png",
+    "static/media/fcLogo.png": "/static/media/fcLogo.6c3d44f7948253432b0b.png",
     "index.html": "/index.html",
-    "static/css/main.eac6b9f6.chunk.css.map": "/static/css/main.eac6b9f6.chunk.css.map",
-    "static/js/2.94022e24.chunk.js.LICENSE.txt": "/static/js/2.94022e24.chunk.js.LICENSE.txt",
-    "static/media/application.d99af350.svg": "/static/media/application.d99af350.svg",
-    "static/media/arrow-right.69ffdcb6.svg": "/static/media/arrow-right.69ffdcb6.svg",
-    "static/media/header.css": "/static/media/fcLogo.6c3d44f7.png",
-    "static/media/getStarted.css": "/static/media/getStartedBackground.894df7b0.png",
-    "static/media/homeIcon.00455cc3.svg": "/static/media/homeIcon.00455cc3.svg",
-    "static/media/loan-education.fff298a4.svg": "/static/media/loan-education.fff298a4.svg",
-    "static/media/peaceHand.58e94816.svg": "/static/media/peaceHand.58e94816.svg",
-    "static/media/review.80f541df.svg": "/static/media/review.80f541df.svg",
-    "static/media/upload-documents.5c29d77b.svg": "/static/media/upload-documents.5c29d77b.svg"
+    "static/media/loan-education.svg": "/static/media/loan-education.fff298a4586c266bcd77edfa0e686aa0.svg",
+    "static/media/application.svg": "/static/media/application.d99af350757fffc7d5c3a96a6ffd9b9d.svg",
+    "static/media/peaceHand.svg": "/static/media/peaceHand.58e94816e1444e6ecfb304710e3f01c1.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.69ffdcb6aa8f39a5c4c4431ab49def8c.svg",
+    "static/media/upload-documents.svg": "/static/media/upload-documents.5c29d77bfcd797c7b27b843172912094.svg",
+    "static/media/review.svg": "/static/media/review.80f541df291f7b6a622e4b2e455fc981.svg",
+    "main.f16a43aa.css.map": "/static/css/main.f16a43aa.css.map",
+    "main.df805b16.js.map": "/static/js/main.df805b16.js.map",
+    "453.8e14ba47.chunk.js.map": "/static/js/453.8e14ba47.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7330a186.js",
-    "static/js/2.94022e24.chunk.js",
-    "static/css/main.eac6b9f6.chunk.css",
-    "static/js/main.b7c3a9c2.chunk.js"
+    "static/css/main.f16a43aa.css",
+    "static/js/main.df805b16.js"
   ]
 }

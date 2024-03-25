@@ -7,7 +7,6 @@ import UploadDocumentIcon from "../images/get-started-icons/upload-documents.svg
 import ArrowRight from "../images/get-started-icons/arrow-right.svg";
 import PeaceHand from "../images/get-started-icons/peaceHand.svg";
 import reviewIcon from "../images/get-started-icons/review.svg";
-import homeIcon from "../images/get-started-icons/homeIcon.svg";
 
 function GetStartedItem(props) {
   const iconName = () => {
@@ -22,8 +21,6 @@ function GetStartedItem(props) {
         return PeaceHand;
       case "reviewIcon":
         return reviewIcon;
-      case "homeIcon":
-        return homeIcon;
       default:
         return ApplicationIcon;
     }
